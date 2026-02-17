@@ -1,0 +1,12 @@
+{
+  "tournaments": [
+    {
+      "id": 123,
+      "title": "Zimski turnir 2026",
+      "subtitle": "Single elimination • 8 teams",
+      "startDate": "2026-02-20T10:00:00+01:00",
+      "endDate": "2026-02-22T16:00:00+01:00",
+      "mode": "Faza 1 (manual results)"
+    }
+  ]
+}

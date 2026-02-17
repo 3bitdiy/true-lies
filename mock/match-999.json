@@ -1,0 +1,8 @@
+{
+  "id": 999,
+  "teamA": "School A",
+  "teamB": "School B",
+  "scheduledAt": "2026-02-20T10:00:00+01:00",
+  "status": "scheduled",
+  "gameJoinUrl": ""
+}

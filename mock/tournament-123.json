@@ -1,0 +1,40 @@
+{
+  "id": 123,
+  "title": "Zimski turnir 2026",
+  "startDate": "2026-02-20T10:00:00+01:00",
+  "endDate": "2026-02-22T16:00:00+01:00",
+  "mode": "Single elimination",
+  "rounds": [
+    {
+      "name": "Quarterfinals",
+      "matches": [
+        {
+          "id": 999,
+          "teamA": "School A",
+          "teamB": "School B",
+          "scheduledAt": "2026-02-20T10:00:00+01:00",
+          "status": "scheduled"
+        },
+        {
+          "id": 1000,
+          "teamA": "School C",
+          "teamB": "School D",
+          "scheduledAt": "2026-02-20T11:00:00+01:00",
+          "status": "scheduled"
+        }
+      ]
+    },
+    {
+      "name": "Semifinals",
+      "matches": [
+        {
+          "id": 1001,
+          "teamA": "TBD",
+          "teamB": "TBD",
+          "scheduledAt": "2026-02-21T10:00:00+01:00",
+          "status": "scheduled"
+        }
+      ]
+    }
+  ]
+}
