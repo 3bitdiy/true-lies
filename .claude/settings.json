@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git rm *)",
+      "Bash(GIT_LITERAL_PATHSPECS=1 git rm --cached \":0/Archive.zip\")"
+    ]
+  }
+}
