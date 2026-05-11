@@ -45,7 +45,8 @@ Nema build tooling-a, nema npm zavisnosti, nema transpajliranja — sve radi dir
 
 | Stranica  | Fajl                        | Opis                                  |
 | --------- | --------------------------- | ------------------------------------- |
-| Početna   | `index.html`                | Pregled projekta, navigacija          |
+| Landing   | `index.html`                | Landing page (opis projekta, dizajn)  |
+| Portal    | `portal.html`               | Portal home, navigacija ka turnirima  |
 | Turniri   | `tournaments.html`          | Lista svih turnira                    |
 | Turnir    | `tournament.html?id=:id`    | Detalji turnira, bracket po rundama   |
 | Meč       | `match.html?id=:id`         | Detalji meča, pokretanje igre         |
@@ -56,7 +57,8 @@ Nema build tooling-a, nema npm zavisnosti, nema transpajliranja — sve radi dir
 
 ```text
 /
-├── index.html
+├── index.html              # Landing page
+├── portal.html             # Portal home (navigacija ka turnirima)
 ├── tournaments.html
 ├── tournament.html
 ├── match.html

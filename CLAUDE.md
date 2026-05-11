@@ -26,7 +26,8 @@ Zatim otvori `http://localhost:8000/`.
 
 ```text
 /
-├── index.html            # Početna stranica (MVP info, navigacija)
+├── index.html            # Landing page (dizajn, opis projekta)
+├── portal.html           # Portal home (MVP info, navigacija ka turnirima)
 ├── tournaments.html      # Lista svih turnira
 ├── tournament.html       # Detalji turnira (bracket po rundama)
 ├── match.html            # Detalji meča + dugme za pokretanje igre
